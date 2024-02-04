@@ -1,6 +1,1110 @@
 outs:
-- md5: a4dd6944fc651609fbd41322939cc78e.dir
-  size: 6926135
-  nfiles: 172
-  hash: md5
+- hash: md5
   path: data
+  files:
+  - relpath: case1.csv
+    md5: e643b70a8d1db1baa1b70f1f5b4f5f77
+    size: 628
+    cloud:
+      aws_remote_storage:
+        etag: e643b70a8d1db1baa1b70f1f5b4f5f77
+        version_id: jyy6ExXnuIavHEqkbWN5ilNzXrB96H4W
+  - relpath: case1.png
+    md5: 313bc5ac7c9fcec5f5026f484cabe19a
+    size: 87000
+    cloud:
+      aws_remote_storage:
+        etag: 313bc5ac7c9fcec5f5026f484cabe19a
+        version_id: HroxSIaOfmpfi9CEuxBNXmGS.MExyWZQ
+  - relpath: case10.csv
+    md5: c270b46d5932728a301dc6197b668bf7
+    size: 460
+    cloud:
+      aws_remote_storage:
+        etag: c270b46d5932728a301dc6197b668bf7
+        version_id: vPYW2dGUa5.EX9KEW3_4ctjtTmgpeOZK
+  - relpath: case10.png
+    md5: 5fbdaba8b4974f7bcac5141c19006438
+    size: 103598
+    cloud:
+      aws_remote_storage:
+        etag: 5fbdaba8b4974f7bcac5141c19006438
+        version_id: LHobg1COmFFq.PEokc0zIXiZ5s_eZYhJ
+  - relpath: case11.csv
+    md5: a9afd658cf1445ffac0c13a24a5bfe7f
+    size: 457
+    cloud:
+      aws_remote_storage:
+        etag: a9afd658cf1445ffac0c13a24a5bfe7f
+        version_id: 4W5crwXr8dlN3m6xYOUqHYsb.w07ep5w
+  - relpath: case11.png
+    md5: 4b4008ccc562f88e78f328d32cb55ce5
+    size: 45956
+    cloud:
+      aws_remote_storage:
+        etag: 4b4008ccc562f88e78f328d32cb55ce5
+        version_id: fTnMYMwjvuNAeECauoRu5Mh8ypjNBOqF
+  - relpath: case12.csv
+    md5: 60fa5e930f966a3f13d9d19e7b85b8db
+    size: 458
+    cloud:
+      aws_remote_storage:
+        etag: 60fa5e930f966a3f13d9d19e7b85b8db
+        version_id: t._4Lgbz2HOE_VmANwrydpSnjjlV17_Z
+  - relpath: case12.png
+    md5: c0f3b3b0fb285642e364c0fa67386574
+    size: 48701
+    cloud:
+      aws_remote_storage:
+        etag: c0f3b3b0fb285642e364c0fa67386574
+        version_id: sqHoV_ZZ7TNi9UsJY.PihoqYRS8vg6a4
+  - relpath: case13.csv
+    md5: c44448b78197f074f1d8f913f99d764c
+    size: 344
+    cloud:
+      aws_remote_storage:
+        etag: c44448b78197f074f1d8f913f99d764c
+        version_id: qFiCk4ulASDFxrLJiuVMRQlHjkhbB3ne
+  - relpath: case13.png
+    md5: a88eef369d068d960a5fc92b55b6c0cc
+    size: 45115
+    cloud:
+      aws_remote_storage:
+        etag: a88eef369d068d960a5fc92b55b6c0cc
+        version_id: Wzs9S.aShnH.xu_Y9vCP73mKVAFYxw29
+  - relpath: case14.csv
+    md5: bf0c1e929fc6e71836cb7b7cecd53519
+    size: 340
+    cloud:
+      aws_remote_storage:
+        etag: bf0c1e929fc6e71836cb7b7cecd53519
+        version_id: qAao4fIg2FhRt.awvG6WQKooF9PwTyUj
+  - relpath: case14.png
+    md5: 152e2a05911a288c1af23d647ecccf40
+    size: 45389
+    cloud:
+      aws_remote_storage:
+        etag: 152e2a05911a288c1af23d647ecccf40
+        version_id: WfTc7B3vjsRMLUlrq_JAsjLCWxvBCSYW
+  - relpath: case15.csv
+    md5: 0f0eb636b01737304147c028d7de4129
+    size: 377
+    cloud:
+      aws_remote_storage:
+        etag: 0f0eb636b01737304147c028d7de4129
+        version_id: NcN0ItJmUOh6WAqtoetrWqupwCqSjwrT
+  - relpath: case15.png
+    md5: 5583945e9ef0b48a94d149328ab3f809
+    size: 71233
+    cloud:
+      aws_remote_storage:
+        etag: 5583945e9ef0b48a94d149328ab3f809
+        version_id: vaVBe50ObnXUQQeEC5XKL4.Rprq_BgIb
+  - relpath: case16.csv
+    md5: 0f10dc44db926006ee62d5805752a721
+    size: 388
+    cloud:
+      aws_remote_storage:
+        etag: 0f10dc44db926006ee62d5805752a721
+        version_id: 9LPYolm8OViezkw6bLioSz9rPpTtsGlV
+  - relpath: case16.png
+    md5: 9d53ae34a8c1562f99593b8a5e7b0b1a
+    size: 95594
+    cloud:
+      aws_remote_storage:
+        etag: 9d53ae34a8c1562f99593b8a5e7b0b1a
+        version_id: q60bCyl21H9yorqkmqkpKhQPCm2IOMRs
+  - relpath: case17.csv
+    md5: 0ce469d9602f854dd0b9db49180ebf39
+    size: 379
+    cloud:
+      aws_remote_storage:
+        etag: 0ce469d9602f854dd0b9db49180ebf39
+        version_id: oM0plose.DQlrVOnpd4A1EYCNSEkhRpn
+  - relpath: case17.png
+    md5: c853908620554edce3b654f23d727c1a
+    size: 74769
+    cloud:
+      aws_remote_storage:
+        etag: c853908620554edce3b654f23d727c1a
+        version_id: XUoumtSXhqtg5qo.vBQwYe66ZboRbDlu
+  - relpath: case18.csv
+    md5: 961ad10bf03066b7c07fdf8ce0c7bdb4
+    size: 369
+    cloud:
+      aws_remote_storage:
+        etag: 961ad10bf03066b7c07fdf8ce0c7bdb4
+        version_id: hcanMPZo1KIYhdk5fZq9GcPlzP2FY6nF
+  - relpath: case18.png
+    md5: 767ca2746617c7e442de88d71282937e
+    size: 73681
+    cloud:
+      aws_remote_storage:
+        etag: 767ca2746617c7e442de88d71282937e
+        version_id: P5a7klnhfBhDyriIE.4crJn6Eoie.2sc
+  - relpath: case19.csv
+    md5: bfdc2a4dea4f146a87988938f4e97b7f
+    size: 373
+    cloud:
+      aws_remote_storage:
+        etag: bfdc2a4dea4f146a87988938f4e97b7f
+        version_id: cpkdrjHR_1aicAMxPv1SBoRk5BJa0z1Y
+  - relpath: case19.png
+    md5: bbeb3bcf4cb9e3a30020ea1ba604ebbd
+    size: 68185
+    cloud:
+      aws_remote_storage:
+        etag: bbeb3bcf4cb9e3a30020ea1ba604ebbd
+        version_id: r5WrUCVMivspzdOHXLmMdZlOg0wff3FA
+  - relpath: case2.csv
+    md5: aa0a1939c7c81292e45ade28defe565b
+    size: 492
+    cloud:
+      aws_remote_storage:
+        etag: aa0a1939c7c81292e45ade28defe565b
+        version_id: rCiiSr77nQ5OOh5kHYJPg0EQ9rNO0LXb
+  - relpath: case2.png
+    md5: f60d84a5b9018c6987057392d87eab68
+    size: 81925
+    cloud:
+      aws_remote_storage:
+        etag: f60d84a5b9018c6987057392d87eab68
+        version_id: 3XAKzGTQjQZwl9VdiQR3tCAAmpwXkrCA
+  - relpath: case21.csv
+    md5: 2ebc9e7443719539c7c4c708742b3f32
+    size: 406
+    cloud:
+      aws_remote_storage:
+        etag: 2ebc9e7443719539c7c4c708742b3f32
+        version_id: Hinup2oMHh4Elj8nHNOasWbZX1q.14jT
+  - relpath: case21.png
+    md5: 21efe8bd6d3a85b5c4c7c9d6912fe117
+    size: 72710
+    cloud:
+      aws_remote_storage:
+        etag: 21efe8bd6d3a85b5c4c7c9d6912fe117
+        version_id: bycsDcygJ9XKMXoQMLPUydva0S1uyp37
+  - relpath: case22.csv
+    md5: 78ca3a335de025dac6ee0bec647859cc
+    size: 342
+    cloud:
+      aws_remote_storage:
+        etag: 78ca3a335de025dac6ee0bec647859cc
+        version_id: R5iJ9ph6tARi5tfvaMW6s7U9m3TsxkLb
+  - relpath: case22.png
+    md5: e265d0c9ac827dd2d7386d7fc0f49a48
+    size: 52549
+    cloud:
+      aws_remote_storage:
+        etag: e265d0c9ac827dd2d7386d7fc0f49a48
+        version_id: MSDEuKym6BSdY7GyIU_Lh7Kd6ORTCNlZ
+  - relpath: case23.csv
+    md5: 0f93dda9f6b8bcc1b73f3aebbe6244cc
+    size: 330
+    cloud:
+      aws_remote_storage:
+        etag: 0f93dda9f6b8bcc1b73f3aebbe6244cc
+        version_id: v7j.ksBvuHeinxlmf1tnyhOpOVWvPx8O
+  - relpath: case23.png
+    md5: 6cba744500dbd2702853d8d94651705a
+    size: 37906
+    cloud:
+      aws_remote_storage:
+        etag: 6cba744500dbd2702853d8d94651705a
+        version_id: rKbDIN0o2BqpkrgqLAtL2AYhAdnQno6z
+  - relpath: case24.csv
+    md5: bcdd209a1f97b2353ce541f0d2078d4a
+    size: 340
+    cloud:
+      aws_remote_storage:
+        etag: bcdd209a1f97b2353ce541f0d2078d4a
+        version_id: IE6fSTUdYNZGv7MaAhiJYIoU7rtZP94n
+  - relpath: case24.png
+    md5: db5153c9f629543e4bd64aff4e1ff989
+    size: 81682
+    cloud:
+      aws_remote_storage:
+        etag: db5153c9f629543e4bd64aff4e1ff989
+        version_id: EpVtJVh7vBC.nWw8eZKft8vNioaujuwh
+  - relpath: case25.csv
+    md5: 842e4b774a8bbd546b3498bbc816ce7a
+    size: 371
+    cloud:
+      aws_remote_storage:
+        etag: 842e4b774a8bbd546b3498bbc816ce7a
+        version_id: RDVG0X8vfea9XO230PO28FXVRLNFmZZq
+  - relpath: case25.png
+    md5: bfc206fbeb2cb37a4264535462b43adb
+    size: 65275
+    cloud:
+      aws_remote_storage:
+        etag: bfc206fbeb2cb37a4264535462b43adb
+        version_id: SEG0Y5YcCdc08slTI4gP3KpK8D1_va8Y
+  - relpath: case26.csv
+    md5: c032cab20a2758885c9be9201d87761f
+    size: 378
+    cloud:
+      aws_remote_storage:
+        etag: c032cab20a2758885c9be9201d87761f
+        version_id: JNl8q.JgF.mSEh8QHVq6rgS5aoxgQzJ6
+  - relpath: case26.png
+    md5: 44c0e8461d54cc4a995f8e5dc623920c
+    size: 76126
+    cloud:
+      aws_remote_storage:
+        etag: 44c0e8461d54cc4a995f8e5dc623920c
+        version_id: mgUZlrkUPrWExtuIaAqOiL6jJVrxDcAy
+  - relpath: case27.csv
+    md5: ea4c9c95316a1ecb258ef25d28769430
+    size: 384
+    cloud:
+      aws_remote_storage:
+        etag: ea4c9c95316a1ecb258ef25d28769430
+        version_id: esuUB_umyxO1XYs2lBB5lbnFc0YNZMpf
+  - relpath: case27.png
+    md5: 413838c535c137e19436f2c10fabf9b2
+    size: 76673
+    cloud:
+      aws_remote_storage:
+        etag: 413838c535c137e19436f2c10fabf9b2
+        version_id: i5lTpD67gWbey7PF5gESICaWBRJXnlBQ
+  - relpath: case28.csv
+    md5: 83aa8a58da26bc7068a8aac84563d210
+    size: 367
+    cloud:
+      aws_remote_storage:
+        etag: 83aa8a58da26bc7068a8aac84563d210
+        version_id: oh7PwBasRgyhDC813BYj2c0G7DSdurZ6
+  - relpath: case28.png
+    md5: 899be35749d17980aa93cdacfb605a11
+    size: 117160
+    cloud:
+      aws_remote_storage:
+        etag: 899be35749d17980aa93cdacfb605a11
+        version_id: tM.GVXeLEa_4mANso.PZdOlm_b2Y6y1l
+  - relpath: case29.csv
+    md5: d46d3d6994016bcae9c85768b0cc18d8
+    size: 338
+    cloud:
+      aws_remote_storage:
+        etag: d46d3d6994016bcae9c85768b0cc18d8
+        version_id: PM21YAYvhjS0DkPktgyiomXuPgRaXCbF
+  - relpath: case29.png
+    md5: ec791dfc67818a83c99e5fa11985f51a
+    size: 88427
+    cloud:
+      aws_remote_storage:
+        etag: ec791dfc67818a83c99e5fa11985f51a
+        version_id: eQTYf2jdRnEAwPCbSL65pHob_jpqakV2
+  - relpath: case3.csv
+    md5: 9276f26be6a86b6f5f31911536b1ca28
+    size: 476
+    cloud:
+      aws_remote_storage:
+        etag: 9276f26be6a86b6f5f31911536b1ca28
+        version_id: Bj18RXSXl2PVZfkUTmRLgz8Cw8GJrYxo
+  - relpath: case3.png
+    md5: cedf7ba3eb0b00a9a84a616087aad55e
+    size: 60343
+    cloud:
+      aws_remote_storage:
+        etag: cedf7ba3eb0b00a9a84a616087aad55e
+        version_id: tv76i0f2riHFWM03bLJq1XFNZ7XweTWd
+  - relpath: case30.csv
+    md5: cf1f72e7247a408b1127915e5ff8bee6
+    size: 352
+    cloud:
+      aws_remote_storage:
+        etag: cf1f72e7247a408b1127915e5ff8bee6
+        version_id: w4t6jMupwKoRO30yaQMUKtxcZSE6A_cR
+  - relpath: case30.png
+    md5: 2c51e7d58a4d48526c8f82afdf0e2c2e
+    size: 92300
+    cloud:
+      aws_remote_storage:
+        etag: 2c51e7d58a4d48526c8f82afdf0e2c2e
+        version_id: 3FZuonicU0Y8CvjY9FWJmTwQ47Jb2g21
+  - relpath: case31.csv
+    md5: e9fe1712ce490d76809c5f294bc666af
+    size: 355
+    cloud:
+      aws_remote_storage:
+        etag: e9fe1712ce490d76809c5f294bc666af
+        version_id: znSzzwWVK4WQrZkHjyABmS7Ol63rb1yg
+  - relpath: case31.png
+    md5: 644e8c27b74658639702cf6ac9623888
+    size: 75819
+    cloud:
+      aws_remote_storage:
+        etag: 644e8c27b74658639702cf6ac9623888
+        version_id: fS63SMOo6ULpOwhOVP9YSkkTUHB9NIl4
+  - relpath: case32.csv
+    md5: 0a8e99ee783b16657021af2941b69f62
+    size: 345
+    cloud:
+      aws_remote_storage:
+        etag: 0a8e99ee783b16657021af2941b69f62
+        version_id: 6MXqCxEOhZ0Z.6lD9UBxb62YwsiWNKNO
+  - relpath: case32.png
+    md5: 7870230a74ff3e875c3b68c7a35155df
+    size: 72142
+    cloud:
+      aws_remote_storage:
+        etag: 7870230a74ff3e875c3b68c7a35155df
+        version_id: G8qVpe1AF0xaAVE8cn.CeuC5oPr2OybR
+  - relpath: case33.csv
+    md5: 3e41612b3e1cc64f668d504e5417ed1c
+    size: 351
+    cloud:
+      aws_remote_storage:
+        etag: 3e41612b3e1cc64f668d504e5417ed1c
+        version_id: ec2QHSOhJ1M3MLk7d7OoYFDDVwUcBiD9
+  - relpath: case33.png
+    md5: 08113fdf2baed6e7ba604c29d2b0b29e
+    size: 85010
+    cloud:
+      aws_remote_storage:
+        etag: 08113fdf2baed6e7ba604c29d2b0b29e
+        version_id: LdqDY1UmWyKlZwBBXj8jz8wtxHs6FoWO
+  - relpath: case34.csv
+    md5: 2b3ea6533a6b731be28d436b2c422553
+    size: 360
+    cloud:
+      aws_remote_storage:
+        etag: 2b3ea6533a6b731be28d436b2c422553
+        version_id: USwmJkeN7hQKcA5wUPkk4JaDxSWlaR6v
+  - relpath: case34.png
+    md5: 049989b5ca51535b885405e31d94a913
+    size: 76917
+    cloud:
+      aws_remote_storage:
+        etag: 049989b5ca51535b885405e31d94a913
+        version_id: Rlm71S.oMcyhwCFGSZpa8I1MYGuAh2ZQ
+  - relpath: case35.csv
+    md5: 375dd2e42b0c4eb83de89f939fe069c7
+    size: 362
+    cloud:
+      aws_remote_storage:
+        etag: 375dd2e42b0c4eb83de89f939fe069c7
+        version_id: U_I8aGsiug2L4C.5y8lLG6GidceJlvpc
+  - relpath: case35.png
+    md5: 9a6f7db34d6d756d762183688b90b8d2
+    size: 74471
+    cloud:
+      aws_remote_storage:
+        etag: 9a6f7db34d6d756d762183688b90b8d2
+        version_id: JlWTa11CYhh6ii1o0CdH5qwjnQdYQnKc
+  - relpath: case36.csv
+    md5: 1ef8a19a61fbf244f24f1c918b094c26
+    size: 358
+    cloud:
+      aws_remote_storage:
+        etag: 1ef8a19a61fbf244f24f1c918b094c26
+        version_id: 9FvmT_iNS9pxjyPlMYNK00OAYIVxlLJf
+  - relpath: case36.png
+    md5: 217a34fa14fefedf9e152cd2321e0a7f
+    size: 55384
+    cloud:
+      aws_remote_storage:
+        etag: 217a34fa14fefedf9e152cd2321e0a7f
+        version_id: 7iJAbx63MqII1HPzS6PbbYcN.AoFwSeV
+  - relpath: case37.csv
+    md5: c381e41e39d3b8c56839a91fc37d1cfa
+    size: 356
+    cloud:
+      aws_remote_storage:
+        etag: c381e41e39d3b8c56839a91fc37d1cfa
+        version_id: ZenyCTWykL6.PiHv28NepjTHCA7VEza3
+  - relpath: case37.png
+    md5: d77ddd9b0b0f2907f24a75d0184ff4f7
+    size: 60564
+    cloud:
+      aws_remote_storage:
+        etag: d77ddd9b0b0f2907f24a75d0184ff4f7
+        version_id: 1yxyYV8nElWOeTh00_yd8a6wBw6a_Waz
+  - relpath: case38.csv
+    md5: 8abc1e5d855b421f5bdd88e3450ddb5b
+    size: 369
+    cloud:
+      aws_remote_storage:
+        etag: 8abc1e5d855b421f5bdd88e3450ddb5b
+        version_id: vjjV_o18RlfcSk1zAwE5lFK6UaZyXSI4
+  - relpath: case38.png
+    md5: 364106467518e88489c09c2b8ff9eb85
+    size: 57422
+    cloud:
+      aws_remote_storage:
+        etag: 364106467518e88489c09c2b8ff9eb85
+        version_id: 05vvCv3.Ns8H3bFP.w2MsSFpDfIst5dk
+  - relpath: case39.csv
+    md5: 37f967040556fb26bbdf5624c9270e9a
+    size: 336
+    cloud:
+      aws_remote_storage:
+        etag: 37f967040556fb26bbdf5624c9270e9a
+        version_id: Ko3xZNkAPi5qhwFbICmC.F5Wm98Tr2KJ
+  - relpath: case39.png
+    md5: 846bb1ecf522cd1951c2aa36eb2f84d7
+    size: 45039
+    cloud:
+      aws_remote_storage:
+        etag: 846bb1ecf522cd1951c2aa36eb2f84d7
+        version_id: 9zoU0nTQ2fNclPHbNBb060Yy3XEYmW7G
+  - relpath: case4.csv
+    md5: dcc842af7fba84ae5c3caa9130f270ee
+    size: 534
+    cloud:
+      aws_remote_storage:
+        etag: dcc842af7fba84ae5c3caa9130f270ee
+        version_id: bB6DhdaXwUHja3a4GWr.m6Pz3t8oyEV8
+  - relpath: case4.png
+    md5: 58222e84ee6c9268263c6a8f81d394d9
+    size: 111902
+    cloud:
+      aws_remote_storage:
+        etag: 58222e84ee6c9268263c6a8f81d394d9
+        version_id: ibg94XtptPMV0464qtEREt_8an_oMyic
+  - relpath: case40.csv
+    md5: 09d2fddbe6cf92d5b976b29654e0158c
+    size: 359
+    cloud:
+      aws_remote_storage:
+        etag: 09d2fddbe6cf92d5b976b29654e0158c
+        version_id: xIDtVFdBhERxUQr595YlDzs2Dj9zh0Ow
+  - relpath: case40.png
+    md5: 220c80e8b6faa749a4f24f5a76cc9dfa
+    size: 71609
+    cloud:
+      aws_remote_storage:
+        etag: 220c80e8b6faa749a4f24f5a76cc9dfa
+        version_id: 69MjZRh93MlN5_PHiEXdXPxev2_ZoeZV
+  - relpath: case41.csv
+    md5: 6001d4ebd7abbf45aa161abc66585c37
+    size: 338
+    cloud:
+      aws_remote_storage:
+        etag: 6001d4ebd7abbf45aa161abc66585c37
+        version_id: 23NHZk7qPH8wZDtFRb8AR._lTomm9QA1
+  - relpath: case41.png
+    md5: 6bba913a7c181ce8f1031d0a25d904bb
+    size: 75920
+    cloud:
+      aws_remote_storage:
+        etag: 6bba913a7c181ce8f1031d0a25d904bb
+        version_id: 3mkYO2mZVtyKQLTTki.MJ4W9kM6gCZ4g
+  - relpath: case42.csv
+    md5: f98fcb5bd92539613e906e3be463027c
+    size: 366
+    cloud:
+      aws_remote_storage:
+        etag: f98fcb5bd92539613e906e3be463027c
+        version_id: TE0f6iaW5gsEDOSItgC_yMVIJivczRUW
+  - relpath: case42.png
+    md5: f523a0bc7174a8a82a813944e6a15f04
+    size: 57508
+    cloud:
+      aws_remote_storage:
+        etag: f523a0bc7174a8a82a813944e6a15f04
+        version_id: Pp_BEC3.aNmT8XdYlO0BaBaTkK8._UNU
+  - relpath: case43.csv
+    md5: 5fd1cd13613bcdd88098aeed3233350d
+    size: 345
+    cloud:
+      aws_remote_storage:
+        etag: 5fd1cd13613bcdd88098aeed3233350d
+        version_id: OkBuz9BCbqD5DsljnugOrHuMzBZxFENG
+  - relpath: case43.png
+    md5: facfdbb9a1914518489be445334c2159
+    size: 34681
+    cloud:
+      aws_remote_storage:
+        etag: facfdbb9a1914518489be445334c2159
+        version_id: DZcGUdBU6FRGGVuRdCAhPxemOQLnssaE
+  - relpath: case44.csv
+    md5: 9df336b60a5d7f31a07d4f27a35c1b79
+    size: 346
+    cloud:
+      aws_remote_storage:
+        etag: 9df336b60a5d7f31a07d4f27a35c1b79
+        version_id: u0uLuFK4p_nlqKCqm_TwtVxnVia33oWD
+  - relpath: case44.png
+    md5: 26db14ac62a76988a92f856bc8831058
+    size: 82623
+    cloud:
+      aws_remote_storage:
+        etag: 26db14ac62a76988a92f856bc8831058
+        version_id: uLSTGNsbs_ZY3EEoOnbk9HLvTtJib0Wk
+  - relpath: case45.csv
+    md5: f0870e4b773f6289834434be73f4384f
+    size: 361
+    cloud:
+      aws_remote_storage:
+        etag: f0870e4b773f6289834434be73f4384f
+        version_id: HHTmqV7lrGtYj565fwO5CxzH2y3PuhyQ
+  - relpath: case45.png
+    md5: e0932f2b062f9866de7be5b5fefba737
+    size: 54410
+    cloud:
+      aws_remote_storage:
+        etag: e0932f2b062f9866de7be5b5fefba737
+        version_id: lCJCRNGEMLs6mgTmWxMmT9iizLS53TU8
+  - relpath: case46.csv
+    md5: 082e082a6428a25b9bb3cc0fa65d2dfa
+    size: 364
+    cloud:
+      aws_remote_storage:
+        etag: 082e082a6428a25b9bb3cc0fa65d2dfa
+        version_id: c2._OagEtrSiUcztDoTwJW4mVl9Q8E4v
+  - relpath: case46.png
+    md5: b78307fede08a83970adac239827d839
+    size: 55027
+    cloud:
+      aws_remote_storage:
+        etag: b78307fede08a83970adac239827d839
+        version_id: ZQkD64il3ciZFy8k1P7LaoQwZrHcTlOI
+  - relpath: case47.csv
+    md5: ad9c2faf05b39a5bf2b91120b060a6a6
+    size: 345
+    cloud:
+      aws_remote_storage:
+        etag: ad9c2faf05b39a5bf2b91120b060a6a6
+        version_id: 40q1GqXY7SOGvPe.LydP7JgOzlyAjgci
+  - relpath: case47.png
+    md5: 26db14ac62a76988a92f856bc8831058
+    size: 82623
+    cloud:
+      aws_remote_storage:
+        etag: 26db14ac62a76988a92f856bc8831058
+        version_id: TxD3fPZFMIiEKwrI5zBX0Hxe8VttzC_s
+  - relpath: case48.csv
+    md5: 891e6eef12c6e45c163a0092fc13c4ba
+    size: 357
+    cloud:
+      aws_remote_storage:
+        etag: 891e6eef12c6e45c163a0092fc13c4ba
+        version_id: 9ts0D2k3_xT6vAOSQamLfrvMdhSjnMNj
+  - relpath: case48.png
+    md5: eb9fb8e5128a2bfa46c9556f0a28138b
+    size: 60104
+    cloud:
+      aws_remote_storage:
+        etag: eb9fb8e5128a2bfa46c9556f0a28138b
+        version_id: pWJs3T1yMHI7cUQ4imv.NSFsCDLVO5Xr
+  - relpath: case49.csv
+    md5: 87139e769fb9ac2cd0b1d202524aef89
+    size: 365
+    cloud:
+      aws_remote_storage:
+        etag: 87139e769fb9ac2cd0b1d202524aef89
+        version_id: Jzwybmp5z91ZQi7rWUDhiqGFccgFWdZq
+  - relpath: case49.png
+    md5: 3c2c094c11dc7441ae2169e5acb900f1
+    size: 163934
+    cloud:
+      aws_remote_storage:
+        etag: 3c2c094c11dc7441ae2169e5acb900f1
+        version_id: 6mvRDEDGd_qh4tQEhrIje3J4.h05lBHU
+  - relpath: case5.csv
+    md5: eb0b512a3b87bbd6b8d28c7b701c58ff
+    size: 476
+    cloud:
+      aws_remote_storage:
+        etag: eb0b512a3b87bbd6b8d28c7b701c58ff
+        version_id: FTdn2HybUz7q289QrbvvfZ4Kp4q1mzhs
+  - relpath: case5.png
+    md5: 8e2a89e2b03105c1c1a03e1c19bb5b11
+    size: 109635
+    cloud:
+      aws_remote_storage:
+        etag: 8e2a89e2b03105c1c1a03e1c19bb5b11
+        version_id: gr4I6gNoxc9qKEvsfspxdL6tBmalalAq
+  - relpath: case50.csv
+    md5: faaa8ffc33cacce6bdb6676c04537bc5
+    size: 342
+    cloud:
+      aws_remote_storage:
+        etag: faaa8ffc33cacce6bdb6676c04537bc5
+        version_id: GYgggnLbHKnO9v8mSYN5Lbz2IH.wNL0Q
+  - relpath: case50.png
+    md5: fad7d439edc73e9b2a25c09348b96900
+    size: 62922
+    cloud:
+      aws_remote_storage:
+        etag: fad7d439edc73e9b2a25c09348b96900
+        version_id: zsZwkkOQ60RYl8_nduooOsuBYjuDe9Q8
+  - relpath: case51.csv
+    md5: 9e4dc36e875c0fdc444a775069336d09
+    size: 368
+    cloud:
+      aws_remote_storage:
+        etag: 9e4dc36e875c0fdc444a775069336d09
+        version_id: IsDU_X0UKqnPA_KjfImrSggMXfO5jzcP
+  - relpath: case51.png
+    md5: 5d5a47f68b11d1e28c2d519bdd118533
+    size: 79614
+    cloud:
+      aws_remote_storage:
+        etag: 5d5a47f68b11d1e28c2d519bdd118533
+        version_id: nTq9WhIUQqU5yzH_eTVvnI7MICT9eJgV
+  - relpath: case52.csv
+    md5: 8092a888d409a91faf58a61c91739f9f
+    size: 383
+    cloud:
+      aws_remote_storage:
+        etag: 8092a888d409a91faf58a61c91739f9f
+        version_id: xioeDwN3zcSFkJ3Z.qLkekwA.j6jZa_d
+  - relpath: case52.png
+    md5: 41c36d6de9e7b131025b77a6d3a4149e
+    size: 88603
+    cloud:
+      aws_remote_storage:
+        etag: 41c36d6de9e7b131025b77a6d3a4149e
+        version_id: pH3iJTV580ZwKF7JT20xK9vsHE8IXwzY
+  - relpath: case53.csv
+    md5: 922d5aebb52b2894f0f67d878940af24
+    size: 364
+    cloud:
+      aws_remote_storage:
+        etag: 922d5aebb52b2894f0f67d878940af24
+        version_id: yNywVB1_g6DKKhxax90UVDMoUSRSbmB6
+  - relpath: case53.png
+    md5: 4e613bebf23d639e8a8e03d90882e7c9
+    size: 80203
+    cloud:
+      aws_remote_storage:
+        etag: 4e613bebf23d639e8a8e03d90882e7c9
+        version_id: 0dDMuht1Epwf3.iY9.3nNaP9i1lEpvQn
+  - relpath: case54.csv
+    md5: 507956fc051cd87f7b124c320a225bd6
+    size: 345
+    cloud:
+      aws_remote_storage:
+        etag: 507956fc051cd87f7b124c320a225bd6
+        version_id: 36hGYAhoWTNpYRj8yI_ChI9mRrEAa4yX
+  - relpath: case54.png
+    md5: 8a47f93a4b460322fa69c0b60d317299
+    size: 37915
+    cloud:
+      aws_remote_storage:
+        etag: 8a47f93a4b460322fa69c0b60d317299
+        version_id: ZM7gSLp._l37qIaCCBfEKWYmpClau2w.
+  - relpath: case55.csv
+    md5: 78676fbf84ba92354b0dd602db4d6551
+    size: 371
+    cloud:
+      aws_remote_storage:
+        etag: 78676fbf84ba92354b0dd602db4d6551
+        version_id: SA4xFQmb5dkttd_sfokUHfcyqzSWAXii
+  - relpath: case55.png
+    md5: 6fffe91493fc3363abe7cd6a8145fca0
+    size: 60437
+    cloud:
+      aws_remote_storage:
+        etag: 6fffe91493fc3363abe7cd6a8145fca0
+        version_id: CHTZ.KdstxPR2eONApzePJaoCVaEi4VK
+  - relpath: case56.csv
+    md5: 7ad4e4c19c752930c635c063f32add47
+    size: 348
+    cloud:
+      aws_remote_storage:
+        etag: 7ad4e4c19c752930c635c063f32add47
+        version_id: mkNFEVrcPIFUlOrPrtTT0VVMDsj8t7cX
+  - relpath: case56.png
+    md5: 5e38be6eea84f98016456798e3b005ea
+    size: 81387
+    cloud:
+      aws_remote_storage:
+        etag: 5e38be6eea84f98016456798e3b005ea
+        version_id: CZyV22sRqVTMfqHLyzuS.fGoslW2InCP
+  - relpath: case57.csv
+    md5: 4003a1f5c203e0ccb5c21d4d322e3598
+    size: 345
+    cloud:
+      aws_remote_storage:
+        etag: 4003a1f5c203e0ccb5c21d4d322e3598
+        version_id: lfTvnD3FtRRPEiiVwmijG.ucK3PAvngX
+  - relpath: case58.csv
+    md5: 3c3980f63a7a4488742331aee44fcf76
+    size: 365
+    cloud:
+      aws_remote_storage:
+        etag: 3c3980f63a7a4488742331aee44fcf76
+        version_id: S8BCaYzl9b3Bt5sdmFd1iGtqD0psbbkz
+  - relpath: case58.png
+    md5: 31646e6075edde40639a808d6b61add9
+    size: 88116
+    cloud:
+      aws_remote_storage:
+        etag: 31646e6075edde40639a808d6b61add9
+        version_id: wFTR7JN4KQdau3hchYQbxTAnaSojHDPh
+  - relpath: case59.csv
+    md5: cd82c8274c888c6693bed73e0fa3610c
+    size: 340
+    cloud:
+      aws_remote_storage:
+        etag: cd82c8274c888c6693bed73e0fa3610c
+        version_id: rIQJLMpgsZWHg7gPUa5S_N3GJ2tahkje
+  - relpath: case59.png
+    md5: 199857562574b58b5f03ac2430b38302
+    size: 74699
+    cloud:
+      aws_remote_storage:
+        etag: 199857562574b58b5f03ac2430b38302
+        version_id: oJkU9MAe4PHAVZ6juRIueCcUn.cljfHE
+  - relpath: case6.csv
+    md5: 49088ab4982063fa9f6ecb549b7cadc6
+    size: 458
+    cloud:
+      aws_remote_storage:
+        etag: 49088ab4982063fa9f6ecb549b7cadc6
+        version_id: tWo8AEmjgYIqnyf27uEsdVX2vSX4USOQ
+  - relpath: case6.png
+    md5: a0919614a4cab27cfe6998cb589fee99
+    size: 94260
+    cloud:
+      aws_remote_storage:
+        etag: a0919614a4cab27cfe6998cb589fee99
+        version_id: MvwE2oUtyD5I30GHjl4bnroV3G27Uq8H
+  - relpath: case60.csv
+    md5: 1015bf33187bd174b52687d08c1d3490
+    size: 361
+    cloud:
+      aws_remote_storage:
+        etag: 1015bf33187bd174b52687d08c1d3490
+        version_id: ZUOU45ktJUFonJxLNAwS.NR5pfa26trW
+  - relpath: case60.png
+    md5: 92eb7fbd97aa8f5b28268522b81673cc
+    size: 77200
+    cloud:
+      aws_remote_storage:
+        etag: 92eb7fbd97aa8f5b28268522b81673cc
+        version_id: cTefvkqHeWFxNFoI_q.Ej2zH7fCa3Vwy
+  - relpath: case61.csv
+    md5: 6c5939ac8bac4bb87bb996253e1deeaa
+    size: 367
+    cloud:
+      aws_remote_storage:
+        etag: 6c5939ac8bac4bb87bb996253e1deeaa
+        version_id: qyN6GIT_FWxJFaQUrY151SabPAfpRQKZ
+  - relpath: case61.png
+    md5: 082f5a29aaa50bca83adce980b3daafb
+    size: 81060
+    cloud:
+      aws_remote_storage:
+        etag: 082f5a29aaa50bca83adce980b3daafb
+        version_id: BgHQdyXElbgZPVeT67mJ4s3Rd3Rcfj8w
+  - relpath: case62.csv
+    md5: 58aca4809681a2a103470e6160f2ae9e
+    size: 339
+    cloud:
+      aws_remote_storage:
+        etag: 58aca4809681a2a103470e6160f2ae9e
+        version_id: hLGEQybHDdZQ9mvgrBbNDP15BxklnecH
+  - relpath: case62.png
+    md5: 71e1a7153bc7142588a64486b8e1ff26
+    size: 85878
+    cloud:
+      aws_remote_storage:
+        etag: 71e1a7153bc7142588a64486b8e1ff26
+        version_id: 0LwpaVIjVSbtS6cV4xnanLjJ5.DM3da3
+  - relpath: case63.csv
+    md5: 8c32e9a8727ee834d8b7839bee0a7fcd
+    size: 366
+    cloud:
+      aws_remote_storage:
+        etag: 8c32e9a8727ee834d8b7839bee0a7fcd
+        version_id: MxeQqFu6QZ3zO5KV9Vt6kh1ck_b0klSj
+  - relpath: case63.png
+    md5: f0a32e6adad91cec0affd67f3a6ece12
+    size: 77397
+    cloud:
+      aws_remote_storage:
+        etag: f0a32e6adad91cec0affd67f3a6ece12
+        version_id: 60bVEO4ZeX7WiqZagt5231XNX_pj4GgD
+  - relpath: case64.csv
+    md5: 48e1e32bb0983f804ce440169acb2765
+    size: 360
+    cloud:
+      aws_remote_storage:
+        etag: 48e1e32bb0983f804ce440169acb2765
+        version_id: uscChEXTx8705oDEI8vOnt_ibChTYSn8
+  - relpath: case64.png
+    md5: 2d18eee6b61d0e08670dadd880a1d8db
+    size: 80529
+    cloud:
+      aws_remote_storage:
+        etag: 2d18eee6b61d0e08670dadd880a1d8db
+        version_id: vZ7_k4F2tfcRC1rydULMMUzRHt873Lpn
+  - relpath: case65.csv
+    md5: 9f5d22b70ba565ccdd99777673921cba
+    size: 358
+    cloud:
+      aws_remote_storage:
+        etag: 9f5d22b70ba565ccdd99777673921cba
+        version_id: 80uwvfUmbQEvo7Wxq0frkuxBYZzKuD2F
+  - relpath: case65.png
+    md5: 3575c762991ae0247f88d955ec0eb418
+    size: 67749
+    cloud:
+      aws_remote_storage:
+        etag: 3575c762991ae0247f88d955ec0eb418
+        version_id: csDYxp84nM.m22bLpZ1zTpouRxGniiXM
+  - relpath: case66.csv
+    md5: 5001dfb274c7c4c534a978dc0864827c
+    size: 365
+    cloud:
+      aws_remote_storage:
+        etag: 5001dfb274c7c4c534a978dc0864827c
+        version_id: MaAIKirdLjrLDnK_TjQSEHuqLnpXzPN1
+  - relpath: case66.png
+    md5: 22b443cac23f95c113cd64a109695cbe
+    size: 77564
+    cloud:
+      aws_remote_storage:
+        etag: 22b443cac23f95c113cd64a109695cbe
+        version_id: Tz_NnmTJhAUVq_Puemb8OSpHHQJZBNs6
+  - relpath: case67.csv
+    md5: df5bd0c685dedf14934bbfc54a2a2771
+    size: 363
+    cloud:
+      aws_remote_storage:
+        etag: df5bd0c685dedf14934bbfc54a2a2771
+        version_id: X2bxiQmNfwznNlAck547lwHEYERLxDoQ
+  - relpath: case67.png
+    md5: 96865bcdb402014c58616f9f2446a85d
+    size: 86395
+    cloud:
+      aws_remote_storage:
+        etag: 96865bcdb402014c58616f9f2446a85d
+        version_id: DQdc_05w4vdBSif6mSu5aQgBLRH9DTIC
+  - relpath: case68.csv
+    md5: 60672a43812cca738f8bee9fb5dc0ed7
+    size: 369
+    cloud:
+      aws_remote_storage:
+        etag: 60672a43812cca738f8bee9fb5dc0ed7
+        version_id: xX6kgwHWcGj3owL6AbfAo5.0nIwZveNh
+  - relpath: case68.png
+    md5: 12b882ab9a06f11b98398a72b4321960
+    size: 82264
+    cloud:
+      aws_remote_storage:
+        etag: 12b882ab9a06f11b98398a72b4321960
+        version_id: E7_ENKfNKgodtPLBY.oDppWZm9AaxHo9
+  - relpath: case69.csv
+    md5: 44cb43381894e2a8f567438c0f9c4b27
+    size: 365
+    cloud:
+      aws_remote_storage:
+        etag: 44cb43381894e2a8f567438c0f9c4b27
+        version_id: 1oHSaR622Wj0g9nWjjtRuIVRfl8MVOU4
+  - relpath: case69.png
+    md5: b07f65e604cd77ba4b6c8bf42f8dddf3
+    size: 62629
+    cloud:
+      aws_remote_storage:
+        etag: b07f65e604cd77ba4b6c8bf42f8dddf3
+        version_id: Yw0vkmo4Sr_SOUO6Wui5FSVNbA_67Cex
+  - relpath: case7.csv
+    md5: 07094314f3854b8351f8a8b89ec196fc
+    size: 499
+    cloud:
+      aws_remote_storage:
+        etag: 07094314f3854b8351f8a8b89ec196fc
+        version_id: 3qyUAmVw5C6_DSnr_ftpS8CxczCf.Ukp
+  - relpath: case7.png
+    md5: 4e3a1755ef75d5283508e51a1ebf7a0b
+    size: 120908
+    cloud:
+      aws_remote_storage:
+        etag: 4e3a1755ef75d5283508e51a1ebf7a0b
+        version_id: 0IsKLsqddD5Sjt0Sxa0ydjlwR.xqjyVy
+  - relpath: case70.csv
+    md5: 8f568f5cba03f6f82dbd342d2d092568
+    size: 340
+    cloud:
+      aws_remote_storage:
+        etag: 8f568f5cba03f6f82dbd342d2d092568
+        version_id: 01Qis5kY_7CE5EXt9uLOpjd0bfcXqAos
+  - relpath: case70.png
+    md5: bd98e65156841d363c90dc7242589221
+    size: 48301
+    cloud:
+      aws_remote_storage:
+        etag: bd98e65156841d363c90dc7242589221
+        version_id: a8pWeYE9qskkOGf2cgESEVA5NStF7ewO
+  - relpath: case71.csv
+    md5: 683fb58d266a2728d120464144ceafbe
+    size: 346
+    cloud:
+      aws_remote_storage:
+        etag: 683fb58d266a2728d120464144ceafbe
+        version_id: 3qKF4lt7Fha07gXkNaUJcFmivfLHfrIE
+  - relpath: case71.png
+    md5: f959286e316219d16a4a065a30f709a1
+    size: 82679
+    cloud:
+      aws_remote_storage:
+        etag: f959286e316219d16a4a065a30f709a1
+        version_id: OHpM3Edn6PhLGBQVyZd1UoxhXQBDgczW
+  - relpath: case72.csv
+    md5: 3f66e7a8a771f9481e2e9c6212396cfa
+    size: 344
+    cloud:
+      aws_remote_storage:
+        etag: 3f66e7a8a771f9481e2e9c6212396cfa
+        version_id: 2E82Y7uTH1U5VqWFEBDcGCE1ZkFLDc5R
+  - relpath: case72.png
+    md5: 2b10488ca4034e78a636af5bf35f7eb0
+    size: 44432
+    cloud:
+      aws_remote_storage:
+        etag: 2b10488ca4034e78a636af5bf35f7eb0
+        version_id: Xc3x3tbhz3al2zTalvQlAbLZNd0EnHsV
+  - relpath: case73.csv
+    md5: af00487bac91748f6403d7c2f6fa7d45
+    size: 340
+    cloud:
+      aws_remote_storage:
+        etag: af00487bac91748f6403d7c2f6fa7d45
+        version_id: WSSNa24Jm86JlTpKNHf7RkuE2YR3DvPO
+  - relpath: case73.png
+    md5: 3e3cbadac2305fe0219cb22a161d1168
+    size: 40859
+    cloud:
+      aws_remote_storage:
+        etag: 3e3cbadac2305fe0219cb22a161d1168
+        version_id: okwntmPhMFMHFvG7X0qXFduebF2EfgCF
+  - relpath: case74.csv
+    md5: e01375f8e7768d67cedc68cf53fb159e
+    size: 340
+    cloud:
+      aws_remote_storage:
+        etag: e01375f8e7768d67cedc68cf53fb159e
+        version_id: rQGrLVVjUdDn0eTKYTVaN22C9hBViDVo
+  - relpath: case74.png
+    md5: 43fc2d33ef348c738e4ede9f66cc5334
+    size: 55840
+    cloud:
+      aws_remote_storage:
+        etag: 43fc2d33ef348c738e4ede9f66cc5334
+        version_id: jwKs2xJ6NGne6UC6wa5FGAUawxFdbdMD
+  - relpath: case75.csv
+    md5: 7faad45a568ea0b3eb6798dabc28eb40
+    size: 386
+    cloud:
+      aws_remote_storage:
+        etag: 7faad45a568ea0b3eb6798dabc28eb40
+        version_id: 8OyUGBFwYlmpEBUDY43YbawJAXKXY3dD
+  - relpath: case75.png
+    md5: 162844143bd664c1d0017aaeddf7840c
+    size: 166192
+    cloud:
+      aws_remote_storage:
+        etag: 162844143bd664c1d0017aaeddf7840c
+        version_id: FTLoKFbscUOlANkDQJ9KbttSopEroaGG
+  - relpath: case76.csv
+    md5: 5ec07ec1ff02fe7b113011c37cd94559
+    size: 394
+    cloud:
+      aws_remote_storage:
+        etag: 5ec07ec1ff02fe7b113011c37cd94559
+        version_id: _bifPK7lmBmyp3C7uBqxNmkgWOxtXWw1
+  - relpath: case76.png
+    md5: 23b223b3cd415218759051a220732d72
+    size: 132154
+    cloud:
+      aws_remote_storage:
+        etag: 23b223b3cd415218759051a220732d72
+        version_id: 3M4Ni8IhmovxUwy84Q1C9lnP64gKQBPr
+  - relpath: case77.csv
+    md5: b93ef43093917120b28e8f4f9b93de3b
+    size: 358
+    cloud:
+      aws_remote_storage:
+        etag: b93ef43093917120b28e8f4f9b93de3b
+        version_id: F_WfUezhiKyHd4ZEfXgMvvRpxpgi1xnV
+  - relpath: case77.png
+    md5: be88877afda7a2dbd2058ea57f21a6f2
+    size: 58143
+    cloud:
+      aws_remote_storage:
+        etag: be88877afda7a2dbd2058ea57f21a6f2
+        version_id: spfILk4GRC6AMZxmajOeFy5tATYXOcT2
+  - relpath: case78.csv
+    md5: 2eeefa3bcdc1b8c6b02e96fc702a9c80
+    size: 361
+    cloud:
+      aws_remote_storage:
+        etag: 2eeefa3bcdc1b8c6b02e96fc702a9c80
+        version_id: pF7s3.NM9aFgMB37OFCsA61H7JsQ2Xr0
+  - relpath: case78.png
+    md5: 9248f65c50b7e2889a459cc0ac762ae5
+    size: 171608
+    cloud:
+      aws_remote_storage:
+        etag: 9248f65c50b7e2889a459cc0ac762ae5
+        version_id: 0i14prnG3iFHN6Ilrb43QEQZxnHGqtwZ
+  - relpath: case79.csv
+    md5: 1bf9ae0193ce0c77283d6eeaaedf3780
+    size: 360
+    cloud:
+      aws_remote_storage:
+        etag: 1bf9ae0193ce0c77283d6eeaaedf3780
+        version_id: W1IegiHdMkfbuwuv4Q1K2zHCkYpGDmpf
+  - relpath: case79.png
+    md5: f778c4570132775a4d62fcd4fcbd912e
+    size: 168245
+    cloud:
+      aws_remote_storage:
+        etag: f778c4570132775a4d62fcd4fcbd912e
+        version_id: fKF7g7CvBN5b9kFwpkCtQ2CL5l97ARop
+  - relpath: case8.csv
+    md5: c467771b27eb6dd205dc648b2ce73f5e
+    size: 502
+    cloud:
+      aws_remote_storage:
+        etag: c467771b27eb6dd205dc648b2ce73f5e
+        version_id: xP38mOUTmta1uEE8aUAl85gPppUwqo_0
+  - relpath: case8.png
+    md5: f9a63d3d78339c6e750566866b6d8f26
+    size: 104610
+    cloud:
+      aws_remote_storage:
+        etag: f9a63d3d78339c6e750566866b6d8f26
+        version_id: SSv9LRy0QqYeEk1ku7YV6SF0.t9.45VS
+  - relpath: case80.csv
+    md5: 6c131217455b7e5e2668ac697096fb74
+    size: 347
+    cloud:
+      aws_remote_storage:
+        etag: 6c131217455b7e5e2668ac697096fb74
+        version_id: f864iSGlAGFwW5kXvtNozSKHtulcSQ9Z
+  - relpath: case80.png
+    md5: c7192eb2ee5ee86c36010157818ea2f7
+    size: 71814
+    cloud:
+      aws_remote_storage:
+        etag: c7192eb2ee5ee86c36010157818ea2f7
+        version_id: 5oaQCGLps.imqvKeBQS5U7rQTctgKOJ_
+  - relpath: case9.csv
+    md5: 408c2b504cc76ee5e30f7ae1da05e4fb
+    size: 499
+    cloud:
+      aws_remote_storage:
+        etag: 408c2b504cc76ee5e30f7ae1da05e4fb
+        version_id: 7Xf4D3zfmaSi7wwpIAmuH8vqdaEs3l7e
+  - relpath: case9.png
+    md5: f2fffa1a2edc49aba767af7a956488e2
+    size: 119779
+    cloud:
+      aws_remote_storage:
+        etag: f2fffa1a2edc49aba767af7a956488e2
+        version_id: UF4eU7Eg4tTGd_KDRI2Qml4EkiZwFMRa
+  - relpath: case_test.csv
+    md5: 22ce3f4af3f32cbca211947180025908
+    size: 392
+    cloud:
+      aws_remote_storage:
+        etag: 22ce3f4af3f32cbca211947180025908
+        version_id: Ydaou_QaHjBgBhLJfhDfUOWaI.WDpsZS
